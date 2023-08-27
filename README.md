@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jinannisar
+- 👀 I’m interested in tech, AI and anything that gets my brain thinking.
+- 🌱 I’m currently learning computer science in Taylor's University, Malaysia.
+- 💞️ I’m looking to collaborate on AI/ML solutions that work towards a social change.
+- 📫 You can reach me at jinannisar02@gmail.com
